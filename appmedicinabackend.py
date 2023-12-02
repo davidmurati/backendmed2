@@ -95,7 +95,7 @@ def deleteUser(id):
 
 @app.route('/')
 def index():
-    return '<h1> index.html </h1>'
+    return '<h1> Hola soy el backend med </h1>'
 
 
 #-------------para que se corra en segundo plano
